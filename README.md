@@ -9,7 +9,7 @@
 Benchmarking framework for comparing audio embedding models when storing and querying audio representations in a vector database. The project uses **Milvus** as the vector database backend and provides a **Streamlit dashboard** for analysing extraction time, insertion time, memory usage, CPU/RAM/GPU behaviour, and vector-search results.
 
 > **Academic grade:** 17/20  
-> **Academic context:** MSc in Advanced Computing — University of Minho
+> **Academic context:** BSc in Computer Science — University of Minho
 
 ---
 
