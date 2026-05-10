@@ -506,7 +506,7 @@ Potential improvements:
 - **João Barbosa**
 - **Pedro Oliveira**
 
-MSc in Advanced Computing  
+BSc in Computer Science — University of Minho
 University of Minho
 
 ---
